@@ -1,0 +1,20 @@
+.root {
+
+}
+
+#soundButton {
+	-fx-background-radius: 10;
+}
+
+.titled-pane > .content {
+
+}
+
+.titled-pane > .title > .text {
+	-fx-font-size: 20;
+}
+
+#controlBar {
+	-fx-border-style: solid;
+	-fx-border-width: 0.5 0 0 0;
+}
